@@ -7,7 +7,7 @@ package javaapplication13;
 import java.util.Scanner;
 /**
  *
- * @author Dany
+ * @author Rubén Daniel Báez Muñiz IMT A01411504
  */
 public class JavaApplication13 {
 
